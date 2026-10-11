@@ -2,7 +2,6 @@
 
 Implementación en **Java** del patrón de diseño **Composite** aplicada a la estructura física de la bodega de un centro de distribución farmacéutica.
 
-**Equipo 3** Diseño de Sistemas de Información, Semestre 6, Instituto Tecnológico Metropolitano (ITM), Medellín 2026
 Aili Yeraldi Parra Echeverri · David Santiago Rendon · Samuel Yepes Zuleta
 
 ---
